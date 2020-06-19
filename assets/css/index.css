@@ -1,0 +1,32 @@
+.layui-nav-item{
+    margin: 5px 0;
+}
+
+
+.farea {
+    display: block;
+    border: 0;
+    height: 100%;
+    width: 100%;
+}
+.welcome {
+    color: #fff;
+  }
+  .welcome img {
+    height: 32px;
+    margin: 14px;
+  }
+  .welcome div {
+    display: inline-block;
+    height: 32px;
+    width: 32px;
+    margin: 10px;
+    background: #00988B;
+    border-radius: 16px;
+    text-align: center;
+    line-height: 32px;
+    vertical-align: middle;
+  }
+  .myhome {
+      background-color: #00988B;
+  }

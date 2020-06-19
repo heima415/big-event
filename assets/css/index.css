@@ -1,5 +1,6 @@
 .layui-nav-item{
-    margin: 5px 0;
+    padding:5px 0;
+    line-height: 16px;
 }
 
 
@@ -29,4 +30,7 @@
   }
   .myhome {
       background-color: #00988B;
+  }
+  .layui-footer {
+      text-align: center;
   }

@@ -1,0 +1,14 @@
+
+.basicBox {
+    width: 100%;
+    background-color: #fff;
+    padding: 10px 0;
+    
+}
+.header-basic {
+margin-bottom: 10px;
+height: 40px;
+line-height: 40px;
+padding-left: 10px;
+border-bottom: 1px solid rgb(207, 205, 205);
+}

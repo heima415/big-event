@@ -1,3 +1,6 @@
+body {
+    background-color: rgb(207, 205, 205);
+}
 .layui-nav-item{
     padding:5px 0;
     line-height: 16px;
@@ -9,6 +12,7 @@
     border: 0;
     height: 100%;
     width: 100%;
+    background-color: rgb(206, 204, 204);
 }
 .welcome {
     color: #fff;
@@ -36,4 +40,7 @@
   }
   .welcome .wel {
       margin-right:5px;
+  }
+  .fixindex {
+      background-color: #00988B;
   }
